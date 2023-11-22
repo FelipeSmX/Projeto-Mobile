@@ -4,43 +4,43 @@
       "id":"1",
       "nome": "#TwentyOnePilots",
       "imagem":"https://i.imgur.com/LKyWZmx.jpg",
-      "action":"Favoritar"
+      "action":["favoritar", "cancelar"]
     },
     {
       "id":"2",
       "nome": "#Coldplay",
       "imagem":"https://i.imgur.com/1aQqnxf.jpg",
-       "action":"Favoritar"
+       "action":["favoritar", "cancelar"]
     }, {  
       "id":"3",
       "nome": "#BrunoMars",
       "imagem":"https://i.imgur.com/wCBCMU3.jpg",
-       "action":"Favoritar"
+       "action":["favoritar", "cancelar"]
     }, {  
       "id":"4",
       "nome": "#ChaseAtlantic",
       "imagem":"https://i.imgur.com/UW7JQO0.jpg",
-       "action":"Favoritar"
+       "action":["favoritar", "cancelar"]
     }, {  
       "id":"5",
       "nome": "#DanielCaesar",
       "imagem":"https://i.imgur.com/ZC0Z76X.jpg",
-       "action":"Favoritar"
+       "action":["favoritar", "cancelar"]
     }, {  
       "id":"6",
       "nome": "#WaveToEarth",
       "imagem":"https://i.imgur.com/zY44MNY.jpg",
-       "action":"Favoritar"
+       "action":["favoritar", "cancelar"]
     }, {  
       "id":"7",
       "nome": "#5SOS",
       "imagem":"https://i.imgur.com/VLKOFte.jpg",
-       "action":"Favoritar"
+       "action":["favoritar", "cancelar"]
     }, {  
       "id":"8",
       "nome": "#DPRlan",
       "imagem":"https://i.imgur.com/DgInfqr.jpg",
-       "action":"Favoritar"
+       "action":["favoritar", "cancelar"]
     }
   ]
 }
