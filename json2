@@ -2,14 +2,36 @@
   "pessoas": [
     {  
       "id":"1",
-      "nome": "Felipe",
-      "idade": 20,
+      "nome": "#TwentyOnePilots",
       "imagem":"https://i.imgur.com/d6dzm1Z.jpg"
     },
     {
       "id":"2",
-      "nome": "Carlos",
-      "idade": 19,
+      "nome": "Coldplay",
+      "imagem":"https://i.imgur.com/d6dzm1Z.jpg"
+    }, {  
+      "id":"3",
+      "nome": "#BrunoMars",
+      "imagem":"https://i.imgur.com/d6dzm1Z.jpg"
+    }, {  
+      "id":"4",
+      "nome": "#ChaseAtlantic",
+      "imagem":"https://i.imgur.com/d6dzm1Z.jpg"
+    }, {  
+      "id":"5",
+      "nome": "#DanielCaesar",
+      "imagem":"https://i.imgur.com/d6dzm1Z.jpg"
+    }, {  
+      "id":"6",
+      "nome": "#WaveToEarth",
+      "imagem":"https://i.imgur.com/d6dzm1Z.jpg"
+    }, {  
+      "id":"7",
+      "nome": "#5SOS",
+      "imagem":"https://i.imgur.com/d6dzm1Z.jpg"
+    }, {  
+      "id":"8",
+      "nome": "#DPRlan",
       "imagem":"https://i.imgur.com/d6dzm1Z.jpg"
     }
   ]
